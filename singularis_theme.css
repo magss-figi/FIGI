@@ -1,0 +1,29 @@
+
+/* Tema personalizado para a FIGI - Singularis */
+
+body {
+    background-color: #b4cbd1;
+    color: #1f3f47;
+    font-family: 'Arial', sans-serif;
+}
+
+header, .reportview-container .main .block-container {
+    background-color: #7ab1c2;
+}
+
+button {
+    background-color: #487a91;
+    color: white;
+    border-radius: 5px;
+}
+
+.st-bb, .st-at, .st-c6 {
+    color: #6a9a73;
+}
+
+footer {
+    background-color: #2e5c67;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
